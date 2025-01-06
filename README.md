@@ -1,6 +1,6 @@
 ## 👋 Prazer, Sou Robério Bonfim
 
-##### 🌟 Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
+#### 🌟 Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
 
 ## SOBRE MIM
 * ✍ Olá, sou @Dr4ux0, ou Robério para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
