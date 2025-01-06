@@ -1,9 +1,10 @@
-## 👋Prazer, Sou Robério Bonfim
+## 👋 Prazer, Sou Robério Bonfim
 
-##### 🌟Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
+##### 🌟 Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
+
 ## SOBRE MIM
-* ✍Aoi, I’m @Dr4ux0, ou Robério para mas formalidade. Sou estudante e apaixonado por engenharia de software
-estou aqui por amar programação e tudo que envolve código.
+* ✍ Olá, sou @Dr4ux0, ou Robério para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
+Estou aqui por amar programação e tudo que envolve código.
 
 ## Github Stats
 
@@ -12,12 +13,11 @@ estou aqui por amar programação e tudo que envolve código.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs">
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&theme=radical" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats Transparent">
 </div>
 
-## Linguagens de Progamação
+## Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Ferramentas
@@ -27,4 +27,3 @@ estou aqui por amar programação e tudo que envolve código.
 ## Para Contato
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dr4ux0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_beriooliver)
-
