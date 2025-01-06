@@ -1,6 +1,6 @@
--Aoi, I’m @Dr4ux0 sou estudante de engenharia de software
+-Aoi, I’m @Dr4ux0, ou Robério para mas formalidade. Sou estudante e apaixonado por engenharia de software
 Estou aqui por amar programação e tudo que envolve código.
-- Atualmente desempregado por escolha eu diria, oportunidades sempre bem-vindas.
+- Atualmente trabalho, mais infelizmente não é com progamação.
 
 -._______------------____________----------______/////////
 
