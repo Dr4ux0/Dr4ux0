@@ -9,15 +9,15 @@ Estou aqui por amar programação e tudo que envolve código.
 ## Github Stats
 
 <div align="center">
-  <!-- GitHub Stats com tema "radical" -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical" alt="Dr4ux0 GitHub stats">
 </div>
 
 <div align="center">
-  <!-- Top Languages com tema "radical" -->
+  <!-- Top Languages com tema -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&theme=radical" alt="Top Langs">
   
-  <!-- GitHub Stats transparente (não é possível aplicar o tema radical aqui) -->
+  <!-- GitHub Stats transparente -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats Transparent">
 </div>
 
