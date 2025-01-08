@@ -13,11 +13,6 @@ Estou aqui por amar programação e tudo que envolve código.
   <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical" alt="Dr4ux0 GitHub stats">
 </div>
 
-<div align="center"
-  <!-- GitHub Stats transparente -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats Transparent">
-</div>
-
 <div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&theme=radical" alt="Top Langs">
