@@ -3,7 +3,7 @@
 #### 🌟 Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
 
 ## SOBRE MIM
-* ✍ Olá, sou @Dr4ux0, ou Robério para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
+* ✍ Olá, sou @Dr4ux0, ou ******* para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
 Estou aqui por amar programação e tudo que envolve código.
 
 ## Github Stats
