@@ -3,8 +3,8 @@
 #### 🌟 Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
 
 ## SOBRE MIM
-* ✍ Olá, sou @Dr4ux0, ou ******* para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
-Estou aqui por amar programação e tudo que envolve código.
+* ✍ Olá, sou ******* para mais formalidade. Sou estudante e apaixonado por engenharia de software. 
+Estou aqui por amar programação e tudo que envolve código. Não sou muito ativo em commit entre outras coisas da comunidade, venho aqui apenas para satisfazer meus desejos.
 
 ## Github Stats
 
