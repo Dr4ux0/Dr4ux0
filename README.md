@@ -1,10 +1,10 @@
-## 👋 Prazer, Sou ...
+## 👋 Prazer, Sou Roberio...
 
 #### Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
 
 ## SOBRE MIM
 
-* Olá, sou ******* para mais formalidade. Sou estudante e apaixonado por engenharia de software.
+* Olá, para mais formalidade sou estudante e apaixonado por engenharia de software.
   Atualmente cursando **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**.
 
 Estou aqui por amar programação e tudo que envolve código. Não sou muito ativo em commit entre outras coisas da comunidade, venho aqui apenas para satisfazer meus desejos e compartilhar minha evolução na programação.
