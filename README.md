@@ -1,55 +1,44 @@
-## 👋 Prazer, Sou Roberio...
+<h1 align="center">👋 Olá, sou o Roberio</h1>
 
-#### Atualmente estou procurando uma oportunidade de trabalho no mundo da tecnologia
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>,
+  apaixonado por engenharia de software e em busca da primeira oportunidade na área de tecnologia.
+</p>
 
-## SOBRE MIM
+<p align="center">
+  <a href="https://t.me/Dr4ux0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/rob%C3%A9rio-bonfim-427107285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:berio.olv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/_roberiooliver"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-* Olá, para mais formalidade sou estudante e apaixonado por engenharia de software.
-  Atualmente cursando **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**.
+---
 
-Estou aqui por amar programação e tudo que envolve código. Não sou muito ativo em commit entre outras coisas da comunidade, venho aqui apenas para satisfazer meus desejos e compartilhar minha evolução na programação.
+## 🧑‍💻 Sobre mim
 
- Tenho interesse em:
+Uso o GitHub para registrar e compartilhar minha evolução na programação. Gosto de aprender na prática e de transformar o que estudo em pequenos projetos.
 
-* Desenvolvimento Back-end
-* Engenharia de Software
-* Banco de Dados
-* Segurança da Informação
-* Automação e APIs
+**Interesses:** Back-end · Engenharia de Software · Banco de Dados · Segurança da Informação · Automação e APIs
 
-Atualmente estou estudando:
+**Estudando agora:** Python · SQL · Git & GitHub · Estrutura de Dados · Desenvolvimento Web
 
-* Python
-* SQL
-* Git & GitHub
-* Estrutura de Dados
-* Desenvolvimento Web
+## 🛠️ Tecnologias e ferramentas
 
-## Github Stats
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical" alt="Dr4ux0 GitHub stats">
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dr4ux0&theme=radical" alt="Top Langs">
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical" alt="Dr4ux0 GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4ux0&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</p>
 
-## Linguagens de Programação
+## 🚀 Projetos em destaque
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-## Ferramentas
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge\&logo=visual-studio\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge\&logo=pycharm\&logoColor=black\&color=black\&labelColor=green)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
-## Para Contato
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/Dr4ux0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_beriooliver)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dr4ux0)
+- [Nome do projeto 1](link) – uma linha explicando o que ele faz
+- [Nome do projeto 2](link) – uma linha explicando o que ele faz
