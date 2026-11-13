@@ -31,11 +31,3 @@ Uso o GitHub para registrar e compartilhar minha evolução na programação. Go
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dr4ux0&show_icons=true&theme=radical" alt="Dr4ux0 GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4ux0&layout=compact&theme=radical" alt="Linguagens mais usadas">
-</p>
-
