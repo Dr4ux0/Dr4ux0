@@ -20,11 +20,12 @@ Uso o GitHub para registrar e compartilhar minha evolução na programação. Go
 
 **Interesses:** Back-end · Engenharia de Software · Banco de Dados · Segurança da Informação · Automação e APIs
 
-**Estudando agora:** Python · SQL · Git & GitHub · Estrutura de Dados · Desenvolvimento Web
+**Estudando agora:** Python · Java · SQL · Git & GitHub · Estrutura de Dados · Desenvolvimento Web
 
 ## 🛠️ Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
