@@ -39,7 +39,3 @@ Uso o GitHub para registrar e compartilhar minha evolução na programação. Go
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4ux0&layout=compact&theme=radical" alt="Linguagens mais usadas">
 </p>
 
-## 🚀 Projetos em destaque
-
-- [Nome do projeto 1](link) – uma linha explicando o que ele faz
-- [Nome do projeto 2](link) – uma linha explicando o que ele faz
